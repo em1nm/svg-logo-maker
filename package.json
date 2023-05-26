@@ -1,0 +1,20 @@
+{
+    "name": "list-geni",
+    "version": "1.0.0",
+    "description": "task",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "fs": "^0.0.1-security",
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^28.1.3"
+    }
+  }
